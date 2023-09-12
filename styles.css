@@ -1,0 +1,26 @@
+
+body {
+    background-color: #333333;
+}
+
+.container {
+    text-align: center;
+}
+h1 {
+    font-size: 5rem; 
+    color: #E1F4F3; 
+    padding-top: 20px; 
+    margin-bottom: 0px;
+    font-family: 'Playfair Display', serif;
+    text-shadow: 2px 2px 3px #E1F4F3;  
+}
+h2 {
+    font-size: 2rem;
+    color: #706C61;  
+    margin-bottom: 80px; 
+    font-family: 'Quicksand', sans-serif;
+}
+
+#piano {
+    height: 400px; 
+}
